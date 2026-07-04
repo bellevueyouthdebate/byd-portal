@@ -7,5 +7,5 @@
  *   https://script.google.com/macros/s/AKfycb.../exec
  */
 window.BYD_CONFIG = {
-  API_URL: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE'
+  API_URL: 'https://script.google.com/macros/s/AKfycbx8q3GwGB2U2fRpLP0UG8SwVrmlWuDmp7NogE1atvNR7Tv05ZoGoINi-geFhTZbpAiZ/exec'
 };
