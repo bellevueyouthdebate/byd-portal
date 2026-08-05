@@ -1,0 +1,6 @@
+{
+  "name": "Bellevue Youth Debate Portal",
+  "description": "Shared record of homework, practice schedules, rounds, and pairings for Bellevue Youth Debate students and coaches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
